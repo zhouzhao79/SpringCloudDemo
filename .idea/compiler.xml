@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="configServer" />
-        <module name="order" />
         <module name="eurekaServer" />
+        <module name="order" />
       </profile>
     </annotationProcessing>
   </component>
